@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "diabetes prediction whose front end is in android and backend is in python ",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "Diabetes-Prediction-",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
